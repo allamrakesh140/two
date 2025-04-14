@@ -1,0 +1,37 @@
+.My{
+ background-color: bisque;
+ 
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #f4f4f4;
+  }
+  
+  header {
+    background-color: #007BFF;
+    color: white;
+    padding: 40px 0;
+  }
+  
+  main {
+    margin: 40px auto;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  footer {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+  }
+  
